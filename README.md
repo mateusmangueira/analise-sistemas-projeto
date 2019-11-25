@@ -7,4 +7,3 @@
 - Ricardo Andrade
 - Yally Galdino
 
-**Dentro da pasta deliverables estão todos os arquivos necessários para a entrega final.**
