@@ -2,7 +2,7 @@
 
 **Equipe:**
 - Kelvin Cirne
-- Larissa Amorin
+- Larissa Amorim
 - Mateus Pinto Mangueira
 - Ricardo Andrade
 - Yally Galdino
